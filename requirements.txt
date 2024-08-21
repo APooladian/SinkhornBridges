@@ -1,0 +1,8 @@
+numpy==1.24.3
+POT==0.9.4
+scikit_learn==1.3.0
+jax==0.4.31
+OTT==0.4.7
+torch==2.1.0
+torchdiffeq==0.2.3
+torchvision==0.16.0
