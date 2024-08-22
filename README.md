@@ -1,6 +1,6 @@
 # Plug-in estimation of Schrödinger bridges 
 
-This repository provides a full implementation of our method for estimating Schrödinger bridges on the basis of i.i.d. samples from the source and target measures. Our approach, called the *Sinkhorn bridge*, is based on expressing the time-dependent drift as a function of the static potentials which solve the entropic optimal transport problem on the data. The GIF below is an visualization of our approach for computing the Sinkhorn bridge for three common low-dimensional datasets in the machine learning literature.
+This repository provides a full implementation of our method for estimating Schrödinger bridges on the basis of i.i.d. samples from the source and target measures, see [here](https://arxiv.org/abs/2408.11686). Our approach, called the *Sinkhorn bridge*, is based on expressing the time-dependent drift as a function of the static potentials which solve the entropic optimal transport problem on the data. The GIF below is an visualization of our approach for computing the Sinkhorn bridge for three common low-dimensional datasets in the machine learning literature.
 
 <p align="center">
 <img align="middle" src="./assets/sinkhornbridge.gif" alt="SINKBRIDGE FIG" width="800" height="200" />
