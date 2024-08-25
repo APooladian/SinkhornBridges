@@ -19,9 +19,9 @@ If you found this code helpful, or are building upon this work, please cite
 Aram-Alexandre Pooladian and Jonathan Niles-Weed. "Plug-in estimation of Schrödinger bridges" *arXiv.* 2024. [[arxiv]](https://arxiv.org/abs/2408.11686)
 
 ```
-@article{pooladian2024plugin,
-  title={Plug-in estimation of {S}chr{\"o}dinger bridges},
-  author={Pooladian, Aram-Alexandre, and Niles-Weed, Jonathan},
+@article{pooladian2024plug,
+  title={Plug-in estimation of Schr\"odinger bridges},
+  author={Pooladian, Aram-Alexandre and Niles-Weed, Jonathan},
   journal={arXiv preprint arXiv:2408.11686},
   year={2024}
 }
